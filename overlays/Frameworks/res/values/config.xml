@@ -1034,6 +1034,10 @@
          black in software (to avoid aliasing or emulate a cutout that is not physically existent). -->
     <string name="config_mainBuiltInDisplayCutout">M -78,0 L -78,78 L 78,78 L 78,0 Z</string>
 
+    <!-- Delay that allows some content to arrive at the display before switching from DOZE 
+         to ON, in millis. -->
+    <integer name="config_wakeUpDelayDoze">32</integer>
+
     <!-- Is the battery LED intrusive? Used to decide if there should be a disable option -->
     <bool name="config_intrusiveBatteryLed">false</bool>
 
