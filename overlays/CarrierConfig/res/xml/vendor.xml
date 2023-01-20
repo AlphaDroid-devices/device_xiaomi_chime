@@ -79,7 +79,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="transmit_static_image" value="false"/>
         <boolean name="show_video_quality_ui" value="false" />
         <!-- Config to control the voWiFi call quality indication. -->
-        <boolean name="vowifi_call_quality" value="false" />
+        <boolean name="vowifi_call_quality" value="true" />
         <boolean name="carrier_allow_deflect_ims_call_bool" value="false" />
 
         <!-- Config for RTT feature support -->
@@ -2370,3 +2370,4 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         </string-array>
     </carrier_config>
 </carrier_config_list>
+
