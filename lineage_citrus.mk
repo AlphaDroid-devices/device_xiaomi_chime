@@ -26,6 +26,12 @@ TARGET_USE_PIXEL_LAUNCHER := false
 TARGET_EXCLUDES_AUDIOFX := true
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
+# Bootanimation Resolution
+TARGET_BOOT_ANIMATION_RES := 1080
+
+# Charging Animation
+TARGET_INCLUDE_PIXEL_CHARGER := true
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := lineage_citrus
 PRODUCT_DEVICE := citrus
