@@ -12,7 +12,6 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # GAPPS flag
 WITH_GAPPS := true
-TARGET_CORE_GAPPS := true
 
 # AlphaDroid Build Tags
 ALPHA_BUILD_TYPE := Official
