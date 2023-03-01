@@ -15,8 +15,8 @@ WITH_GAPPS := true
 TARGET_CORE_GAPPS := true
 
 # AlphaDroid Build Tags
-ALPHA_BUILD_TYPE := Unofficial
-ALPHA_MAINTAINER := DrOpto
+ALPHA_BUILD_TYPE := Official
+ALPHA_MAINTAINER := JuniorNoob
 
 #Supported Device Flags (Features)
 TARGET_ENABLE_BLUR := true
