@@ -16,3 +16,6 @@ git clone https://gitlab.com/chimeoss/vendor_xiaomi_citrus -b lineage-20 vendor/
 git clone https://gitlab.com/chimeoss/vendor_xiaomi_lime -b lineage-20 vendor/xiaomi/lime
 # Hardware
 git clone https://github.com/hac4us06/hardware_xiaomi -b thirteen hardware/xiaomi
+
+# Clone SonyDolby
+git clone https://github.com/Drpto/vendor_dolby.git-b main vendor/dolby
