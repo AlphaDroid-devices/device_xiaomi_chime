@@ -10,6 +10,9 @@ $(call inherit-product, device/xiaomi/chime/device-lime.mk)
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
+# Sony Dolby
+$(call inherit-product, vendor/dolby/config.mk)
+
 # GAPPS flag
 WITH_GAPPS := true
 
